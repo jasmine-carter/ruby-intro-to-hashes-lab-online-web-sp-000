@@ -3,7 +3,7 @@ def new_hash
 end
 
 def actor
-	actor => {:name "Dwanye The Rock Johnson"}
+	actor = { :name => "Dwanye The Rock Johnson" }
 end
 
 def monopoly
